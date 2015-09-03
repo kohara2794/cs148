@@ -1,6 +1,6 @@
 <?php
 // passwords for your database 
-$dbReader="xxxx";
-$dbWriter="xxxx";
-$dbAdmin="xxxx";
+$dbReader="yWwpC16r0wSfW0FC";
+$dbWriter="L4gXb41SmL6ilsGz";
+$dbAdmin="mdZae02PcH7b";
 ?>
