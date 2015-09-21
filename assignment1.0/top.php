@@ -5,10 +5,10 @@ require_once('lib/custom-functions.php');
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Google Link text so put something relevant here</title>
+        <title>Keegan OHara Assignment</title>
         <meta charset="utf-8">
-        <meta name="author" content="Mark me wrong">
-        <meta name="description" content="Mark me wrong for not changing this">
+        <meta name="Keegan" content="O'Hara">
+        <meta name="CS 148" content="Assignment number 1, CS 148">
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
 

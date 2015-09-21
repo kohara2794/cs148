@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+A site map file for Keegan's CS 148 Assignment #1, totally 
+copyrighted and everything by me, Keegan O'Hara.  I'm already lawyered
+up so don't even think about it punk
+-->
+
+<root>
+    <url>
+    <loc>https://keohara.w3.uvm.edu/cs148/assignment1.0/index.php /</loc>
+    <lastmod>2015-09-111</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    </url>
+    <url>
+    <loc>https://keohara.w3.uvm.edu/cs148/tryme.php</loc>
+    <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
+    <loc>https://keohara.w3.uvm.edu/cs148/assignment1.0/tables.php</loc>
+    <changefreq>All the damn time!</changefreq>
+    </url>
+</root>
+

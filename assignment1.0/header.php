@@ -2,11 +2,11 @@
 
 <header>
     <figure class="float_left small">
-            <img alt="calvin and hobbes has influenced my snowman making." src="images/snowmen.jpg">
-            <figcaption>Snowmen observing an accident.</figcaption>
+            <img alt="A damn fine outfit" src="images/umphreys.jpg">
+            <figcaption>Do yourself a favor and check out Umphrey's</figcaption>
     </figure>
-    <h1>Main title for SITE</h1>
-    <h2>Tag line</h2>
+    <h1>Keegan's test site</h1>
+    <h2>Isn't it cozy?</h2>
 </header>
 
 <!-- %%%%%%%%%%%%%%%%%%%%% Ends Page header   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->

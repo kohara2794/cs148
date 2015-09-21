@@ -1,6 +1,6 @@
 <!-- @@@@@@@@@@@@@@@@@@@@@@     Footer            @@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 <footer>
-    <p>Web site designed by Robert M. Erickson.</p>
+    <p>Web site modified by Keegan O'Hara for CS 148.</p>
 </footer>
 <!-- @@@@@@@@@@@@@@@@@@@@ Ends Footer             @@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
