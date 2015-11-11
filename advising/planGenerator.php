@@ -48,6 +48,9 @@ $lastTerm = "";
 foreach ($dbArray as $rec) {
         
          $currentTerm = $rec["fnkYear"] . $rec["fnkTerm"];
+         if ($lastTerm == ""){
+             $lastTerm = $currentTerm;
+         }
          
          
         $highlight++;
@@ -60,11 +63,12 @@ foreach ($dbArray as $rec) {
         for ($i = 0; $i < $columns; $i++) {
             print '<td>' . $rec[$i] . str_repeat('&nbsp;', 3) . ' </td>';
         }
+        print '</tr>';
         if ($currentTerm != $lastTerm) {
-             print '<td><tr>r>Debugging</tr></td>';
+             print '<tr><td>Debugging</td></tr>';
              $lastTerm = $currentTerm;
          }
-        print '</tr>';
+        
     }
 print '</table>';
 
