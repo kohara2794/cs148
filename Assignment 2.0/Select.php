@@ -2,8 +2,7 @@
 
 /* 
  * Keegan O'Hara
- * CS 148
- * Assignment #2
+ * Simple PHP practice exercise
  * 9/17/15
  */
 $query = 'SELECT * FROM ' . $tableName;
